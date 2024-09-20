@@ -26,8 +26,10 @@
    - Enable folding power auto-adjustment
    - Allow remote access
 4. Start the ***Folding@Home service***
+   
    ```sudo /etc/init.d/FAHClient start```
 5. Monitor the service
+   
    ```sudo apt-get install fahcontrol```
    
    ```fahcontrol```
