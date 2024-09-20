@@ -3,7 +3,7 @@
 ***Folidng@Home*** allows you to contribute compute in order to assist and contribute to scientific research like disease research and molecular biology.
 
 ## Prerequisites
-- Raspberry Pi (preferably Raspberry Pi 3, 4, or newer for better performance)
+- Raspberry Pi (preferably Raspberry Pi 5 for better performance)
 - Raspberry Pi OS
 - An internet connection
 - Cooling solution
