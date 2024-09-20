@@ -3,10 +3,10 @@
 ***Folidng@Home*** allows you to contribute compute in order to assist and contribute to scientific research like disease research and molecular biology.
 
 ## Prerequisites
-- Raspberry Pi (preferably Raspberry Pi 5 for better performance) - $79.99
+- Raspberry Pi 5 (ARM Cortex-A76 64-bit CPU@2.4GHz, VideoCore VII GPU, PCIe 2.0 1x, 27W USB-C PSU 5V/5A, 8GB RAM) - $79.99
 - Raspberry Pi OS
 - An internet connection
-- Cooling solution
+- Cooling solution (a cold room lol)
 
 # Steps
 1. Setup your environment
